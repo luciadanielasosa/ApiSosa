@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSosa", "ApiSosa\ApiSosa.csproj", "{E034FC3B-9663-479C-9827-C7EBC0DBE473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E034FC3B-9663-479C-9827-C7EBC0DBE473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E034FC3B-9663-479C-9827-C7EBC0DBE473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E034FC3B-9663-479C-9827-C7EBC0DBE473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E034FC3B-9663-479C-9827-C7EBC0DBE473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB4A807-F587-4052-BE55-77A3A15178ED}
+	EndGlobalSection
+EndGlobal
